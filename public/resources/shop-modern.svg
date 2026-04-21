@@ -1,0 +1,38 @@
+<svg width="124" height="124" viewBox="0 0 124 124" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2257_48)">
+<path d="M124 0H0V124H124V0Z" fill="#7DB36C"/>
+<path d="M88 88H36V124H88V88Z" fill="#BFC5CB"/>
+<path d="M92 94H32V124H92V94Z" fill="#AEB5BC"/>
+<path opacity="0.65" d="M44 88H40V124H44V88Z" fill="#D5DADF"/>
+<path opacity="0.7" d="M84 88H80V124H84V88Z" fill="#98A0A8"/>
+<path d="M100 20H24V88H100V20Z" fill="#D9DDE2"/>
+<path d="M96 24H28V84H96V24Z" fill="#ECEFF3"/>
+<path d="M104 16H20V28H104V16Z" fill="#49525C"/>
+<path d="M100 20H24V26H100V20Z" fill="#626C77"/>
+<path d="M94 48H30V76H94V48Z" fill="#79C7E8"/>
+<path opacity="0.18" d="M94 48H30V76H94V48Z" fill="#DDF7FF"/>
+<path d="M46 48H44V76H46V48Z" fill="#5E6A75"/>
+<path d="M64 48H62V76H64V48Z" fill="#5E6A75"/>
+<path d="M82 48H80V76H82V48Z" fill="#5E6A75"/>
+<path d="M94 60H30V62H94V60Z" fill="#5E6A75"/>
+<path d="M72 44H52V88H72V44Z" fill="#2F3942"/>
+<path d="M70 46H54V86H70V46Z" fill="#8ED4F0"/>
+<path d="M63 46H61V86H63V46Z" fill="#5E6A75"/>
+<path d="M59.0001 67.4C59.7733 67.4 60.4001 66.7732 60.4001 66C60.4001 65.2268 59.7733 64.6 59.0001 64.6C58.2269 64.6 57.6001 65.2268 57.6001 66C57.6001 66.7732 58.2269 67.4 59.0001 67.4Z" fill="#F3F5F7"/>
+<path d="M65.0001 67.4C65.7733 67.4 66.4001 66.7732 66.4001 66C66.4001 65.2268 65.7733 64.6 65.0001 64.6C64.2269 64.6 63.6001 65.2268 63.6001 66C63.6001 66.7732 64.2269 67.4 65.0001 67.4Z" fill="#F3F5F7"/>
+<path d="M98 40H26V48H98V40Z" fill="#222B33"/>
+<path d="M94 44H30V48H94V44Z" fill="#3A444E"/>
+<path d="M94 28H30V40H94V28Z" fill="white"/>
+<path d="M88 32H36V36H88V32Z" fill="#8A939C"/>
+<path d="M28 92H16V112H28V92Z" fill="#8A939C"/>
+<path d="M108 92H96V112H108V92Z" fill="#8A939C"/>
+<path d="M30 88H14V96H30V88Z" fill="#5B8F4D"/>
+<path d="M110 88H94V96H110V88Z" fill="#5B8F4D"/>
+<path opacity="0.45" d="M76 88H48V94H76V88Z" fill="#8E959C"/>
+</g>
+<defs>
+<clipPath id="clip0_2257_48">
+<rect width="124" height="124" fill="white"/>
+</clipPath>
+</defs>
+</svg>
